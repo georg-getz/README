@@ -25,7 +25,7 @@ Example request for generating proof of Aztec network:
   `curl --location --request POST 'http://127.0.0.1:8080/generate-proof' \
   --header 'Content-Type: application/json' \
   --data-raw '{
-  "prover": "aztec",
+  "network": "aztec",
   "input": "eyJ0eXBlIjoiQmFzZVBhcml0eUlucHV0IiwiaW5wdXRzIjp7fX0="
   }'`
 * response:
