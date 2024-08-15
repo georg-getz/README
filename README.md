@@ -3,7 +3,7 @@
 POST: `/generate-proof`
 
 request {
-`prover: "aztec" | "polygon"`,
+`network: "aztec" | "polygon"`,
 `input: string` - base64 encoded json required by the specified prover as input parameters
 }
 
