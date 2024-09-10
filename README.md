@@ -1,3 +1,5 @@
+# Откраднато от FMI
+
 # Многонишково програмиране
 
 ## Race Track :racing_car: :vertical_traffic_light: :fuelpump:
@@ -196,4 +198,3 @@ test
     └── (...)
 ```
 
-В грейдъра качете общ `zip` архив на папки `src` и `test`.
